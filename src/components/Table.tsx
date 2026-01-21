@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import RowModal from '../components/RowModal';
-import Data from '../Data/data';
+import Data from '../data/data';
 import { ExpandLess, ExpandMore, FileDownloadDoneOutlined, NavigateBefore, NavigateNext, Search } from '@mui/icons-material';
 import jsPDF from 'jspdf';
 import autoTable from 'jspdf-autotable'; 
